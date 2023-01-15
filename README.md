@@ -18,7 +18,6 @@ The game merely requires the python library ‘pygame’ to be present on the us
 
 Then, the user merely has to download the game folder and run the game file.
 
-
 ## Game Instructions:
 •Connect Four is a 2-player game. Players alternate taking turns. There is one colour for each player.
 
